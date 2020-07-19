@@ -1,0 +1,5200 @@
+﻿[
+  {
+    "gene_a": {
+      "identity": 22503,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 176450,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "tbx-8",
+        "description": "T-box transcription factor tbx-8",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/176450"
+      }
+    },
+    "gene_b": {
+      "identity": 81393,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 176449,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "tbx-9",
+        "description": "T-box transcription factor tbx-9",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/176449"
+      }
+    },
+    "SL": {
+      "identity": 1990362,
+      "start": 22503,
+      "end": 81393,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15892873",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.65
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 23549,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 171988,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "unc-73",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/171988"
+      }
+    },
+    "gene_b": {
+      "identity": 51355,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175953,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ten-1",
+        "description": "Teneurin-1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175953"
+      }
+    },
+    "SL": {
+      "identity": 554279,
+      "start": 23549,
+      "end": 51355,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "20497576",
+        "source": "Text Mining",
+        "statistic_score": 0.75,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 26937,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172801,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "rba-1",
+        "description": "Probable histone-binding protein rba-1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172801"
+      }
+    },
+    "gene_b": {
+      "identity": 85161,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172065,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "eaf-1",
+        "description": "EAF domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172065"
+      }
+    },
+    "SL": {
+      "identity": 1032531,
+      "start": 26937,
+      "end": 85161,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "24727455",
+        "source": "Text Mining",
+        "statistic_score": 0.75,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 35794,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 190098,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "unc-34",
+        "description": "VASP_tetra domain-containing protein;WH1 domain-containing protein;hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/190098"
+      }
+    },
+    "gene_b": {
+      "identity": 51355,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175953,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ten-1",
+        "description": "Teneurin-1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175953"
+      }
+    },
+    "SL": {
+      "identity": 1972921,
+      "start": 35794,
+      "end": 51355,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "20497576",
+        "source": "Text Mining",
+        "statistic_score": 0.75,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 44718,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175552,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "mcm-5",
+        "description": "DNA replication licensing factor mcm-5",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175552"
+      }
+    },
+    "gene_b": {
+      "identity": 43460,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174841,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "mcm-2",
+        "description": "DNA helicase",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174841"
+      }
+    },
+    "SL": {
+      "identity": 1944004,
+      "start": 44718,
+      "end": 43460,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "17568563",
+        "source": "Text Mining",
+        "statistic_score": 0.25,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 47805,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172092,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "rpa-2",
+        "description": "RPA_C domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172092"
+      }
+    },
+    "gene_b": {
+      "identity": 194,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177914,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "rad-51",
+        "description": "DNA repair protein RAD51 homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177914"
+      }
+    },
+    "SL": {
+      "identity": 1086982,
+      "start": 47805,
+      "end": 194,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Text Mining",
+        "statistic_score": 0.5,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 47852,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175284,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "dss-1",
+        "description": "Probable 26S proteasome complex subunit dss-1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175284"
+      }
+    },
+    "gene_b": {
+      "identity": 92321,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175962,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "brc-2",
+        "description": "DNA repair protein brc-2",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175962"
+      }
+    },
+    "SL": {
+      "identity": 1373770,
+      "start": 47852,
+      "end": 92321,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "18471277",
+        "source": "Text Mining",
+        "statistic_score": 0.25,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 58637,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177243,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "cyc-2.1",
+        "description": "Cytochrome c 2.1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177243"
+      }
+    },
+    "SL": {
+      "identity": 2286688,
+      "start": 53597,
+      "end": 58637,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.72
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 70515,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 188457,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "mrpl-51",
+        "description": "39S ribosomal protein L51, mitochondrial",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/188457"
+      }
+    },
+    "SL": {
+      "identity": 2251099,
+      "start": 53597,
+      "end": 70515,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.8
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 82757,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172471,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "myo-1",
+        "description": "Myosin-1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172471"
+      }
+    },
+    "SL": {
+      "identity": 2122035,
+      "start": 53597,
+      "end": 82757,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.89
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 10803,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175559,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "cdk-12",
+        "description": "Cyclin-dependent kinase 12",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175559"
+      }
+    },
+    "SL": {
+      "identity": 2083145,
+      "start": 53597,
+      "end": 10803,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.8
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 80034,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177237,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "yars-2",
+        "description": "Tyrosine--tRNA ligase",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177237"
+      }
+    },
+    "SL": {
+      "identity": 2039116,
+      "start": 53597,
+      "end": 80034,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.84
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 58043,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 176361,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "tbg-1",
+        "description": "Tubulin gamma chain",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/176361"
+      }
+    },
+    "SL": {
+      "identity": 2036998,
+      "start": 53597,
+      "end": 58043,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.78
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 24277,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172748,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "tat-5",
+        "description": "Phospholipid-transporting ATPase",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172748"
+      }
+    },
+    "SL": {
+      "identity": 2008606,
+      "start": 53597,
+      "end": 24277,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.91
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 74153,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172784,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "klp-16",
+        "description": "Kinesin motor domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172784"
+      }
+    },
+    "SL": {
+      "identity": 1950004,
+      "start": 53597,
+      "end": 74153,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.85
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 77069,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 178260,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "dli-1",
+        "description": "Dynein light intermediate chain",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/178260"
+      }
+    },
+    "SL": {
+      "identity": 1910873,
+      "start": 53597,
+      "end": 77069,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.95
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 34665,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 182490,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "symk-1",
+        "description": "SYMpleKin cleavage and polyadenylation factor",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/182490"
+      }
+    },
+    "SL": {
+      "identity": 1896821,
+      "start": 53597,
+      "end": 34665,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.77
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 194,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177914,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "rad-51",
+        "description": "DNA repair protein RAD51 homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177914"
+      }
+    },
+    "SL": {
+      "identity": 1869856,
+      "start": 53597,
+      "end": 194,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.71
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 35298,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 178006,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "let-70",
+        "description": "Ubiquitin-conjugating enzyme E2 2",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/178006"
+      }
+    },
+    "SL": {
+      "identity": 1855773,
+      "start": 53597,
+      "end": 35298,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.81
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 67179,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174765,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "gtf-2E2",
+        "description": "Transcription initiation factor IIE subunit beta",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174765"
+      }
+    },
+    "SL": {
+      "identity": 1821556,
+      "start": 53597,
+      "end": 67179,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.83
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 72176,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175097,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "kbp-3",
+        "description": "Kinetochore-binding protein 3",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175097"
+      }
+    },
+    "SL": {
+      "identity": 1743679,
+      "start": 53597,
+      "end": 72176,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.82
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 19290,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172082,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "gsp-3",
+        "description": "Serine/threonine-protein phosphatase PP1-gamma",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172082"
+      }
+    },
+    "SL": {
+      "identity": 1731046,
+      "start": 53597,
+      "end": 19290,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.83
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 2128,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172831,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "tba-1",
+        "description": "Tubulin alpha chain",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172831"
+      }
+    },
+    "SL": {
+      "identity": 1702248,
+      "start": 53597,
+      "end": 2128,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.8
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 9864,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175994,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "B0280.9",
+        "description": "U3 small nucleolar RNA-associated protein 18 homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175994"
+      }
+    },
+    "SL": {
+      "identity": 1621784,
+      "start": 53597,
+      "end": 9864,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.72
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 3501,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177018,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "vha-3",
+        "description": "V-type proton ATPase 16 kDa proteolipid subunit 2/3",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177018"
+      }
+    },
+    "SL": {
+      "identity": 1580758,
+      "start": 53597,
+      "end": 3501,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.81
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 17192,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175414,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "H06I04.3",
+        "description": "Putative rRNA methyltransferase",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175414"
+      }
+    },
+    "SL": {
+      "identity": 1569508,
+      "start": 53597,
+      "end": 17192,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.8
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 46485,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 176008,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "F37C12.3",
+        "description": "Acyl carrier protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/176008"
+      }
+    },
+    "SL": {
+      "identity": 1429783,
+      "start": 53597,
+      "end": 46485,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.87
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 58457,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175818,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ddx-23",
+        "description": "DEAD boX helicase homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175818"
+      }
+    },
+    "SL": {
+      "identity": 1348481,
+      "start": 53597,
+      "end": 58457,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.83
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 49981,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 188274,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "mrpl-23",
+        "description": "Probable 39S ribosomal protein L23, mitochondrial",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/188274"
+      }
+    },
+    "SL": {
+      "identity": 1331104,
+      "start": 53597,
+      "end": 49981,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.81
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 54026,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177757,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "vha-17",
+        "description": "V-type proton ATPase subunit e",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177757"
+      }
+    },
+    "SL": {
+      "identity": 1316582,
+      "start": 53597,
+      "end": 54026,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.71
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 81076,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172768,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "pabp-2",
+        "description": "RRM domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172768"
+      }
+    },
+    "SL": {
+      "identity": 1098736,
+      "start": 53597,
+      "end": 81076,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.9
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 45141,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 171867,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "cogc-3",
+        "description": "Conserved Oligomeric Golgi (COG) Component",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/171867"
+      }
+    },
+    "SL": {
+      "identity": 1027893,
+      "start": 53597,
+      "end": 45141,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.82
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 82530,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 180055,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "sfxn-1.3",
+        "description": "Sideroflexin;Sidoreflexin",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/180055"
+      }
+    },
+    "SL": {
+      "identity": 743449,
+      "start": 53597,
+      "end": 82530,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.75
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 73787,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 173137,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "par-6",
+        "description": "Partitioning defective protein 6",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/173137"
+      }
+    },
+    "SL": {
+      "identity": 718413,
+      "start": 53597,
+      "end": 73787,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 22216,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172773,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "skr-2",
+        "description": "SKp1 Related (ubiquitin ligase complex component)",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172773"
+      }
+    },
+    "SL": {
+      "identity": 448399,
+      "start": 53597,
+      "end": 22216,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.82
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 56145,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179331,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "eif-2Bdelta",
+        "description": "Eukaryotic Initiation Factor",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179331"
+      }
+    },
+    "SL": {
+      "identity": 444523,
+      "start": 53597,
+      "end": 56145,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.84
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 31858,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181714,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "pat-9",
+        "description": "Paralysed Arrest at Two-fold",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181714"
+      }
+    },
+    "SL": {
+      "identity": 334745,
+      "start": 53597,
+      "end": 31858,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.93
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 38083,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 187445,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "xbx-3",
+        "description": "X-BoX promoter element regulated",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/187445"
+      }
+    },
+    "SL": {
+      "identity": 196258,
+      "start": 53597,
+      "end": 38083,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.75
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 81310,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172438,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "nuo-6",
+        "description": "NADH Ubiquinone Oxidoreductase",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172438"
+      }
+    },
+    "SL": {
+      "identity": 67078,
+      "start": 53597,
+      "end": 81310,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.88
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 70342,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 173914,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "pkc-3",
+        "description": "Protein kinase C-like 3",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/173914"
+      }
+    },
+    "SL": {
+      "identity": 6108,
+      "start": 53597,
+      "end": 70342,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.73
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 53597,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179948,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "bmk-1",
+        "description": "Kinesin-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179948"
+      }
+    },
+    "gene_b": {
+      "identity": 78186,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174484,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "mel-11",
+        "description": "ANK_REP_REGION domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174484"
+      }
+    },
+    "SL": {
+      "identity": 4764,
+      "start": 53597,
+      "end": 78186,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25984351",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.8
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 54602,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 173788,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "hlh-1",
+        "description": "Myoblast determination protein 1 homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/173788"
+      }
+    },
+    "gene_b": {
+      "identity": 79635,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 183457,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "hnd-1",
+        "description": "BHLH domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/183457"
+      }
+    },
+    "SL": {
+      "identity": 42621,
+      "start": 54602,
+      "end": 79635,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15892873",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.55
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 59166,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179967,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "rfc-1",
+        "description": "Replication factor C subunit 1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179967"
+      }
+    },
+    "gene_b": {
+      "identity": 16433,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177879,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "ctf-18",
+        "description": "AAA domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177879"
+      }
+    },
+    "SL": {
+      "identity": 1837161,
+      "start": 59166,
+      "end": 16433,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "19846659",
+        "source": "Text Mining",
+        "statistic_score": 0.75,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 59166,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179967,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "rfc-1",
+        "description": "Replication factor C subunit 1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179967"
+      }
+    },
+    "gene_b": {
+      "identity": 61360,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 188728,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "ctf-8",
+        "description": "Chromosome Transmission Fidelity factor homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/188728"
+      }
+    },
+    "SL": {
+      "identity": 159598,
+      "start": 59166,
+      "end": 61360,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "19846659",
+        "source": "Text Mining",
+        "statistic_score": 0.25,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 61360,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 188728,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "ctf-8",
+        "description": "Chromosome Transmission Fidelity factor homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/188728"
+      }
+    },
+    "gene_b": {
+      "identity": 16433,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177879,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "ctf-18",
+        "description": "AAA domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177879"
+      }
+    },
+    "SL": {
+      "identity": 264176,
+      "start": 61360,
+      "end": 16433,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "19846659",
+        "source": "Text Mining",
+        "statistic_score": 0.25,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 65784,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 3565793,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "atm-1",
+        "description": "Serine/threonine-protein kinase ATM",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/3565793"
+      }
+    },
+    "gene_b": {
+      "identity": 27638,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 176067,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "lig-4",
+        "description": "LIGase",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/176067"
+      }
+    },
+    "SL": {
+      "identity": 330861,
+      "start": 65784,
+      "end": 27638,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "24653001",
+        "source": "BioGrid",
+        "statistic_score": 0.4,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 65784,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 3565793,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "atm-1",
+        "description": "Serine/threonine-protein kinase ATM",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/3565793"
+      }
+    },
+    "gene_b": {
+      "identity": 66184,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175578,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "cku-80",
+        "description": "ATP-dependent DNA helicase II subunit 2;Ku_PK_bind domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175578"
+      }
+    },
+    "SL": {
+      "identity": 163411,
+      "start": 65784,
+      "end": 66184,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "24653001",
+        "source": "BioGrid",
+        "statistic_score": 0.4,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 72843,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172636,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "unc-120",
+        "description": "MADS-box domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172636"
+      }
+    },
+    "gene_b": {
+      "identity": 54602,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 173788,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "hlh-1",
+        "description": "Myoblast determination protein 1 homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/173788"
+      }
+    },
+    "SL": {
+      "identity": 1915607,
+      "start": 72843,
+      "end": 54602,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15892873",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.55
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 72843,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172636,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "unc-120",
+        "description": "MADS-box domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172636"
+      }
+    },
+    "gene_b": {
+      "identity": 79635,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 183457,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "hnd-1",
+        "description": "BHLH domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/183457"
+      }
+    },
+    "SL": {
+      "identity": 805297,
+      "start": 72843,
+      "end": 79635,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15892873",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.69
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 50607,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 180048,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "mdt-28",
+        "description": "Coiled-coil domain-containing protein mdt-28",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/180048"
+      }
+    },
+    "SL": {
+      "identity": 2214156,
+      "start": 80311,
+      "end": 50607,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 69575,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174055,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ani-2",
+        "description": "Anillin-like protein 2",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174055"
+      }
+    },
+    "SL": {
+      "identity": 2169792,
+      "start": 80311,
+      "end": 69575,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 48869,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177929,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "spe-26",
+        "description": "Spermatocyte protein spe-26",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177929"
+      }
+    },
+    "SL": {
+      "identity": 2010536,
+      "start": 80311,
+      "end": 48869,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 51112,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174622,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "pro-1",
+        "description": "Pre-rRNA-processing protein pro-1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174622"
+      }
+    },
+    "SL": {
+      "identity": 1986780,
+      "start": 80311,
+      "end": 51112,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 46428,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175255,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "bra-2",
+        "description": "MYND-type domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175255"
+      }
+    },
+    "SL": {
+      "identity": 1968609,
+      "start": 80311,
+      "end": 46428,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 9167,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177643,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "T26A8.4",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177643"
+      }
+    },
+    "SL": {
+      "identity": 1926965,
+      "start": 80311,
+      "end": 9167,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 26874,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174579,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "F33H1.3",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174579"
+      }
+    },
+    "SL": {
+      "identity": 1892488,
+      "start": 80311,
+      "end": 26874,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 74640,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179538,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "math-33",
+        "description": "Ubiquitin carboxyl-terminal hydrolase;Ubiquitin carboxyl-terminal hydrolase 7",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179538"
+      }
+    },
+    "SL": {
+      "identity": 1839774,
+      "start": 80311,
+      "end": 74640,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 46304,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 178495,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "skr-8",
+        "description": "SKp1 Related (ubiquitin ligase complex component)",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/178495"
+      }
+    },
+    "SL": {
+      "identity": 1747385,
+      "start": 80311,
+      "end": 46304,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 36085,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 191463,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ZK930.2",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/191463"
+      }
+    },
+    "SL": {
+      "identity": 1727848,
+      "start": 80311,
+      "end": 36085,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 2043,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 180325,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "mdt-17",
+        "description": "Mediator of RNA polymerase II transcription subunit 17",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/180325"
+      }
+    },
+    "SL": {
+      "identity": 1661057,
+      "start": 80311,
+      "end": 2043,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 91768,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 171712,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "spe-15",
+        "description": "Myosin motor domain-containing protein;Myosin-VI_CBD domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/171712"
+      }
+    },
+    "SL": {
+      "identity": 1645962,
+      "start": 80311,
+      "end": 91768,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 35778,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175474,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "wdr-5.1",
+        "description": "WD repeat-containing protein wdr-5.1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175474"
+      }
+    },
+    "SL": {
+      "identity": 1601677,
+      "start": 80311,
+      "end": 35778,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 83841,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 191511,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "ZK1055.2",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/191511"
+      }
+    },
+    "SL": {
+      "identity": 1598143,
+      "start": 80311,
+      "end": 83841,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 36461,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181957,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "B0393.6",
+        "description": "RING-type domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181957"
+      }
+    },
+    "SL": {
+      "identity": 1542600,
+      "start": 80311,
+      "end": 36461,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 39742,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175675,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "C27F2.10",
+        "description": "PCI domain-containing protein 2 homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175675"
+      }
+    },
+    "SL": {
+      "identity": 1399501,
+      "start": 80311,
+      "end": 39742,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 2314,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 176755,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ife-1",
+        "description": "Eukaryotic translation initiation factor 4E-1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/176755"
+      }
+    },
+    "SL": {
+      "identity": 1220699,
+      "start": 80311,
+      "end": 2314,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 729,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177084,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "eel-1",
+        "description": "Enhancer of EfL-1 mutant phenotype",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177084"
+      }
+    },
+    "SL": {
+      "identity": 1125294,
+      "start": 80311,
+      "end": 729,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 73288,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174543,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "vgln-1",
+        "description": "ViGiLN homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174543"
+      }
+    },
+    "SL": {
+      "identity": 1040246,
+      "start": 80311,
+      "end": 73288,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 11643,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 173768,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "pfd-2",
+        "description": "Prefoldin subunit 2",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/173768"
+      }
+    },
+    "SL": {
+      "identity": 846836,
+      "start": 80311,
+      "end": 11643,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 49783,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 178728,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "F53E10.6",
+        "description": "RRP15-like protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/178728"
+      }
+    },
+    "SL": {
+      "identity": 757288,
+      "start": 80311,
+      "end": 49783,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 47805,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172092,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "rpa-2",
+        "description": "RPA_C domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172092"
+      }
+    },
+    "SL": {
+      "identity": 695963,
+      "start": 80311,
+      "end": 47805,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 41721,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 176605,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "elb-1",
+        "description": "ELongin B",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/176605"
+      }
+    },
+    "SL": {
+      "identity": 629905,
+      "start": 80311,
+      "end": 41721,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 67722,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172929,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "mus-101",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172929"
+      }
+    },
+    "SL": {
+      "identity": 285362,
+      "start": 80311,
+      "end": 67722,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 53935,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174556,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "aakg-5",
+        "description": "AMP-Activated protein Kinase Gamma subunit",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174556"
+      }
+    },
+    "SL": {
+      "identity": 285337,
+      "start": 80311,
+      "end": 53935,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 48690,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179115,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "krr-1",
+        "description": "KRR1 small subunit processome component",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179115"
+      }
+    },
+    "SL": {
+      "identity": 206025,
+      "start": 80311,
+      "end": 48690,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 10201,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 178025,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "cpt-2",
+        "description": "Calponin-homology (CH) domain-containing protein;Carn_acyltransf domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/178025"
+      }
+    },
+    "SL": {
+      "identity": 118281,
+      "start": 80311,
+      "end": 10201,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 27313,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 171647,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "wwp-1",
+        "description": "E3 ubiquitin-protein ligase",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/171647"
+      }
+    },
+    "SL": {
+      "identity": 88417,
+      "start": 80311,
+      "end": 27313,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 9456,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 176409,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "mog-1",
+        "description": "Probable pre-mRNA-splicing factor ATP-dependent RNA helicase mog-1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/176409"
+      }
+    },
+    "SL": {
+      "identity": 55314,
+      "start": 80311,
+      "end": 9456,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 4614,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 187843,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "mrps-6",
+        "description": "Mitochondrial Ribosomal Protein, Small",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/187843"
+      }
+    },
+    "SL": {
+      "identity": 11109,
+      "start": 80311,
+      "end": 4614,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 194,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177914,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "rad-51",
+        "description": "DNA repair protein RAD51 homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177914"
+      }
+    },
+    "SL": {
+      "identity": 8623,
+      "start": 80311,
+      "end": 194,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 80311,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175248,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "ucr-2.3",
+        "description": "Peptidase_M16 domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175248"
+      }
+    },
+    "gene_b": {
+      "identity": 91049,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172507,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "dcp-66",
+        "description": "Deacetylase Complex Protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172507"
+      }
+    },
+    "SL": {
+      "identity": 6676,
+      "start": 80311,
+      "end": 91049,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "15326288",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 82199,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174685,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ptp-3",
+        "description": "Protein-tyrosine-phosphatase;Tyrosine-protein phosphatase Lar-like",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174685"
+      }
+    },
+    "gene_b": {
+      "identity": 20766,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 13185037,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "C17C3.14",
+        "description": "pseudo",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/13185037"
+      }
+    },
+    "SL": {
+      "identity": 2314278,
+      "start": 82199,
+      "end": 20766,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 82199,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174685,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ptp-3",
+        "description": "Protein-tyrosine-phosphatase;Tyrosine-protein phosphatase Lar-like",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174685"
+      }
+    },
+    "gene_b": {
+      "identity": 94578,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 173794,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "vab-1",
+        "description": "Ephrin receptor 1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/173794"
+      }
+    },
+    "SL": {
+      "identity": 2109875,
+      "start": 82199,
+      "end": 94578,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 82199,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174685,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ptp-3",
+        "description": "Protein-tyrosine-phosphatase;Tyrosine-protein phosphatase Lar-like",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174685"
+      }
+    },
+    "gene_b": {
+      "identity": 44982,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172819,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "C04F12.7",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172819"
+      }
+    },
+    "SL": {
+      "identity": 1834059,
+      "start": 82199,
+      "end": 44982,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 82199,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174685,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ptp-3",
+        "description": "Protein-tyrosine-phosphatase;Tyrosine-protein phosphatase Lar-like",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174685"
+      }
+    },
+    "gene_b": {
+      "identity": 7415,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 182958,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "C27C7.5",
+        "description": "Galectin",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/182958"
+      }
+    },
+    "SL": {
+      "identity": 821860,
+      "start": 82199,
+      "end": 7415,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 82199,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174685,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ptp-3",
+        "description": "Protein-tyrosine-phosphatase;Tyrosine-protein phosphatase Lar-like",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174685"
+      }
+    },
+    "gene_b": {
+      "identity": 47477,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 171608,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "bli-3",
+        "description": "Dual oxidase 1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/171608"
+      }
+    },
+    "SL": {
+      "identity": 568258,
+      "start": 82199,
+      "end": 47477,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 82199,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174685,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ptp-3",
+        "description": "Protein-tyrosine-phosphatase;Tyrosine-protein phosphatase Lar-like",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174685"
+      }
+    },
+    "gene_b": {
+      "identity": 87783,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172233,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "unc-40",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172233"
+      }
+    },
+    "SL": {
+      "identity": 548515,
+      "start": 82199,
+      "end": 87783,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 82199,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174685,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ptp-3",
+        "description": "Protein-tyrosine-phosphatase;Tyrosine-protein phosphatase Lar-like",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174685"
+      }
+    },
+    "gene_b": {
+      "identity": 50034,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 171872,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "mek-2",
+        "description": "Dual specificity mitogen-activated protein kinase kinase mek-2",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/171872"
+      }
+    },
+    "SL": {
+      "identity": 223997,
+      "start": 82199,
+      "end": 50034,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 82199,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174685,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ptp-3",
+        "description": "Protein-tyrosine-phosphatase;Tyrosine-protein phosphatase Lar-like",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174685"
+      }
+    },
+    "gene_b": {
+      "identity": 69599,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 183773,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "clec-11",
+        "description": "C-type LECtin",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/183773"
+      }
+    },
+    "SL": {
+      "identity": 206695,
+      "start": 82199,
+      "end": 69599,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 82199,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174685,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ptp-3",
+        "description": "Protein-tyrosine-phosphatase;Tyrosine-protein phosphatase Lar-like",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174685"
+      }
+    },
+    "gene_b": {
+      "identity": 78257,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172834,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "ncx-4",
+        "description": "Na_Ca_ex domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172834"
+      }
+    },
+    "SL": {
+      "identity": 42572,
+      "start": 82199,
+      "end": 78257,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 85161,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172065,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "eaf-1",
+        "description": "EAF domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172065"
+      }
+    },
+    "gene_b": {
+      "identity": 94658,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 177458,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "ruvb-2",
+        "description": "RuvB-like 2",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/177458"
+      }
+    },
+    "SL": {
+      "identity": 1792584,
+      "start": 85161,
+      "end": 94658,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "24727455",
+        "source": "BioGrid",
+        "statistic_score": 0.25,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 85161,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172065,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "eaf-1",
+        "description": "EAF domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172065"
+      }
+    },
+    "gene_b": {
+      "identity": 56614,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 180357,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "pha-4",
+        "description": "Defective pharyngeal development protein 4",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/180357"
+      }
+    },
+    "SL": {
+      "identity": 1749278,
+      "start": 85161,
+      "end": 56614,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "24727455",
+        "source": "BioGrid",
+        "statistic_score": 0.25,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 85161,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172065,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "eaf-1",
+        "description": "EAF domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172065"
+      }
+    },
+    "gene_b": {
+      "identity": 20179,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175890,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "hmg-1.2",
+        "description": "High mobility group protein 1.2",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175890"
+      }
+    },
+    "SL": {
+      "identity": 1460799,
+      "start": 85161,
+      "end": 20179,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "24727455",
+        "source": "BioGrid",
+        "statistic_score": 0.25,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 85161,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172065,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "eaf-1",
+        "description": "EAF domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172065"
+      }
+    },
+    "gene_b": {
+      "identity": 10782,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181371,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "set-6",
+        "description": "SET domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181371"
+      }
+    },
+    "SL": {
+      "identity": 393687,
+      "start": 85161,
+      "end": 10782,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "24727455",
+        "source": "BioGrid",
+        "statistic_score": 0.25,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 85161,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172065,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "eaf-1",
+        "description": "EAF domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172065"
+      }
+    },
+    "gene_b": {
+      "identity": 64352,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172802,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "lin-53",
+        "description": "Probable histone-binding protein lin-53",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172802"
+      }
+    },
+    "SL": {
+      "identity": 186413,
+      "start": 85161,
+      "end": 64352,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "24727455",
+        "source": "BioGrid",
+        "statistic_score": 0.25,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 86137,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 179912,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "V",
+        "name": "par-1",
+        "description": "Serine/threonine-protein kinase par-1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/179912"
+      }
+    },
+    "gene_b": {
+      "identity": 70383,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 175545,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "III",
+        "name": "mpk-1",
+        "description": "Mitogen-activated protein kinase mpk-1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/175545"
+      }
+    },
+    "SL": {
+      "identity": 113187,
+      "start": 86137,
+      "end": 70383,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "19720857",
+        "source": "Text Mining",
+        "statistic_score": 0.25,
+        "unbiased": true
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 92202,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174516,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "fzr-1",
+        "description": "WD_REPEATS_REGION domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174516"
+      }
+    },
+    "gene_b": {
+      "identity": 80768,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172249,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "lin-35",
+        "description": "Retinoblastoma-like protein homolog lin-35",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172249"
+      }
+    },
+    "SL": {
+      "identity": 1600296,
+      "start": 92202,
+      "end": 80768,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "11850412",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.94
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 92202,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174516,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "fzr-1",
+        "description": "WD_REPEATS_REGION domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174516"
+      }
+    },
+    "gene_b": {
+      "identity": 35618,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174058,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "lin-23",
+        "description": "F-box/WD repeat-containing protein lin-23",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174058"
+      }
+    },
+    "SL": {
+      "identity": 282185,
+      "start": 92202,
+      "end": 35618,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "11850412",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.94
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 47477,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 171608,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "bli-3",
+        "description": "Dual oxidase 1",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/171608"
+      }
+    },
+    "SL": {
+      "identity": 2211490,
+      "start": 94258,
+      "end": 47477,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 18257,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 183047,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "C30E1.4",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/183047"
+      }
+    },
+    "SL": {
+      "identity": 2133150,
+      "start": 94258,
+      "end": 18257,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 57062,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172510,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "mans-1",
+        "description": "alpha-1,2-Mannosidase",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172510"
+      }
+    },
+    "SL": {
+      "identity": 1996627,
+      "start": 94258,
+      "end": 57062,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 72066,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172777,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "stl-1",
+        "description": "PHB domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172777"
+      }
+    },
+    "SL": {
+      "identity": 1832252,
+      "start": 94258,
+      "end": 72066,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 56414,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 259585,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "IV",
+        "name": "C33D9.6",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/259585"
+      }
+    },
+    "SL": {
+      "identity": 1764886,
+      "start": 94258,
+      "end": 56414,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 33372,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172656,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "slc-25A42",
+        "description": "SLC (SoLute Carrier) homolog",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172656"
+      }
+    },
+    "SL": {
+      "identity": 1740979,
+      "start": 94258,
+      "end": 33372,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 17266,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172075,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "B0041.5",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172075"
+      }
+    },
+    "SL": {
+      "identity": 1229037,
+      "start": 94258,
+      "end": 17266,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 95539,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172323,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "oac-9",
+        "description": "NRF domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172323"
+      }
+    },
+    "SL": {
+      "identity": 954369,
+      "start": 94258,
+      "end": 95539,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 27388,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172333,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "bli-4",
+        "description": "Endoprotease bli-4",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172333"
+      }
+    },
+    "SL": {
+      "identity": 889234,
+      "start": 94258,
+      "end": 27388,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 10931,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 188535,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "T15D6.9",
+        "description": "hypothetical protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/188535"
+      }
+    },
+    "SL": {
+      "identity": 415031,
+      "start": 94258,
+      "end": 10931,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 69599,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 183773,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "clec-11",
+        "description": "C-type LECtin",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/183773"
+      }
+    },
+    "SL": {
+      "identity": 384320,
+      "start": 94258,
+      "end": 69599,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 50034,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 171872,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "mek-2",
+        "description": "Dual specificity mitogen-activated protein kinase kinase mek-2",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/171872"
+      }
+    },
+    "SL": {
+      "identity": 368002,
+      "start": 94258,
+      "end": 50034,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 51914,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 188368,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "pcbd-1",
+        "description": "Putative pterin-4-alpha-carbinolamine dehydratase",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/188368"
+      }
+    },
+    "SL": {
+      "identity": 322621,
+      "start": 94258,
+      "end": 51914,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 78257,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 172834,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "I",
+        "name": "ncx-4",
+        "description": "Na_Ca_ex domain-containing protein",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/172834"
+      }
+    },
+    "SL": {
+      "identity": 161806,
+      "start": 94258,
+      "end": 78257,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.79
+      }
+    }
+  },
+  {
+    "gene_a": {
+      "identity": 94258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 181259,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "X",
+        "name": "sdn-1",
+        "description": "Probable syndecan;Syndecan",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/181259"
+      }
+    },
+    "gene_b": {
+      "identity": 82199,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "license": "CC0 1.0",
+        "identifier": 174685,
+        "Organism": "Caenorhabditis elegans",
+        "chromosome": "II",
+        "name": "ptp-3",
+        "description": "Protein-tyrosine-phosphatase;Tyrosine-protein phosphatase Lar-like",
+        "source": "Entrez Gene",
+        "url": "http://identifiers.org/ncbigene/174685"
+      }
+    },
+    "SL": {
+      "identity": 66515,
+      "start": 94258,
+      "end": 82199,
+      "type": "SL_GsG",
+      "properties": {
+        "pubmed_id": "25938228",
+        "source": "Literature review",
+        "unbiased": true,
+        "statistic_score": 0.94
+      }
+    }
+  }
+]
