@@ -11,3 +11,4 @@ All rights are reserved by the authors.
 |version|Date|Address|
 |-|-|-|
 |v1|2015|http://synlethdb.sist.shanghaitech.edu.cn/|
+|v2|2020|http://synlethdb.sist.shanghaitech.edu.cn/v2/|
