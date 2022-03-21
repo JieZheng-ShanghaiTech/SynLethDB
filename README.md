@@ -10,5 +10,8 @@ All rights are reserved by the authors.
 
 |version|Date|Address|
 |-|-|-|
-|v1|2015|http://synlethdb.sist.shanghaitech.edu.cn/|
+|v1|2015||
 |v2|2020|http://synlethdb.sist.shanghaitech.edu.cn/v2/|
+
+## Issues
+If you have problems accessing the website, please contact us or refer to this [solution](https://github.com/JieZheng-ShanghaiTech/SynLethDB/blob/master/solution_HSTS.pdf)
