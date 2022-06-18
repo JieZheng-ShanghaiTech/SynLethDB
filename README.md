@@ -1,6 +1,6 @@
-# Notice 2022.6.18
+# Notice 2022.06.18
 
-* Our web server (http://synlethdb.sist.shanghaitech.edu.cn/v2/#/) is temporarily shut down due to some technical issue. We will need about a week (from 18 June to around 25 June, 2022) to check and restore the web site. Sorry for any inconvenience caused.
+* Our web server (http://synlethdb.sist.shanghaitech.edu.cn/v2/#/) is temporarily shut down due to some technical issue. We will need about a week (from June 18 to around June 25, 2022) to check and restore the web site. Sorry for any inconvenience caused.
 
 * The latest data files of SynLethDB can be downloaded from this repository.
 
