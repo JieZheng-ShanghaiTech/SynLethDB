@@ -1,3 +1,11 @@
+# Notice 2022.6.18
+
+* Our server (http://synlethdb.sist.shanghaitech.edu.cn/v2/#/) is under attack, we need about a week to maintain and check for vulnerabilities.
+
+* The latest data files of SynLethDB can be downloaded from this repository.
+
+
+
 # SynLethDB
 SynLethDB is a comprehensive database (and knowledgebase) for synthetic lethality, a promising strategy of cancer therapeutics and drug discovery. Here is the repo for SynLethDB public datasets.
 
