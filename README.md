@@ -5,7 +5,7 @@ If you use the data, please cite:
 
 [1] Jie Wang, Min Wu, Xuhui Huang, Li Wang, Sophia Zhang, Hui Liu, Jie Zheng. "SynLethDB 2.0: a web-based knowledge graph database on synthetic lethality for novel anticancer drug discovery." Database, Volume 2022, 2022, baac030, https://doi.org/10.1093/database/baac030
 
-[2] Jing Guo, Hui Liu, and Jie Zheng. "SynLethDB: synthetic lethality database toward discovery of selective and sensitive anticancer drug targets." Nucleic Acids Research 44.D1 (2016): D1011-D1017.
+[2] Jing Guo, Hui Liu, Jie Zheng. "SynLethDB: synthetic lethality database toward discovery of selective and sensitive anticancer drug targets." Nucleic Acids Research, Volume 44, Issue D1, 4 January 2016, Pages D1011–D1017, https://doi.org/10.1093/nar/gkv1108
 
 All rights are reserved by the authors.
 ## Version History
